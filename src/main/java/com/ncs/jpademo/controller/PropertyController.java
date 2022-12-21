@@ -10,7 +10,7 @@ public class PropertyController {
 
     @GetMapping("")
     public String index() {
-        return "Hello World";
+        return "Hello World Git";
     }
 
     @PostMapping("/save")
